@@ -63,7 +63,7 @@ body{
     bottom: 0px;
     right: 0px;
     z-index: 5;
-   border: #2f80ed 1px solid;
+   border: #2f80ed 0px solid;
   font-size: 0;
 }
 .square-pic{
